@@ -19,6 +19,13 @@ Welcome to the **Currency Converter App!** This Android application, built using
 
 ---
 
+## 📸 Screenshots
+
+![Screenshot 1](https://i.imgur.com/G7KH3Zm.jpeg)
+![Screenshot 2](https://i.imgur.com/FtkPbPu.jpeg)
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
