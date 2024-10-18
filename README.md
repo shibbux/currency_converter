@@ -1,6 +1,6 @@
 # 💰 Currency Converter App
 
-![Currency Converter](YOUR_IMAGE_LINK_HERE)
+![Currency Converter](https://i.imgur.com/C9TpoY5.png)
 
 ---
 
